@@ -12,7 +12,7 @@ body{
 /* css for button in button component */
 .button{
   cursor: pointer;
-  background: darkcyan;
+  background: rgb(12, 12, 12)12, 12)12, 12)12, 12);
   color: white;
   /* border: none; */
   border-radius: 10px;
@@ -23,12 +23,12 @@ body{
 }
 .button:hover{
   background: white;
-  color: darkcyan;
+  color: rgb(23, 24, 24);
 }
 
 /* css for h2 heading */
 h1{
-  color: darkcyan;
+  color: rgb(15, 17, 17);
 }
 
 
@@ -47,5 +47,5 @@ h1{
   width: 300px;
   text-align: left;
   font-weight: 600;
-  color: blue;
+  color: rgb(22, 22, 24);
 }
